@@ -1,0 +1,15 @@
+{
+  "name": "ferramenta_css",
+  "version": "1.0.0",
+  "description": "Ferramenta para inserir comandos CSS e retornar uma lista ordenada de A a Z.",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ana Oliveira - @drmidn1ght",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
